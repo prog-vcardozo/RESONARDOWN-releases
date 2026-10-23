@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "published": "2026-10-23",
-  "url": "versiones/Resonar-1.0.0.zip",
-  "size": 183111,
-  "sha256": "86a150fc3ac26df973f79c379540e2477bdbd780ff20dc6602274f5fe1bd151d",
-  "notes": "Primera versión de Resonar.\n\n- Descarga música y video de YouTube, YouTube Music, Spotify, TikTok, Instagram y SoundCloud en la mejor calidad disponible, sin recodificar.\n- Lee título, artista y carátula, y los guarda dentro de cada archivo.\n- Listas de reproducción y álbumes completos: eliges qué canciones bajar y se guardan numeradas en su propia carpeta.\n- Spotify: busca la misma canción en YouTube y muestra qué tan segura es la coincidencia.\n- Biblioteca con vista de cuadrícula o lista, orden por fecha, título, artista, duración o tamaño, y filtros por tipo, formato y origen.\n- Separación de voz e instrumental (módulo opcional).\n- Bajo consumo: descargas simultáneas configurables y fuentes incluidas.\n- Actualizaciones automáticas y desinstalador completo desde Configuración > Aplicaciones.\n- Hecho en Paraguay."
+  "url": "versiones/ResonarDown-1.1.0.zip",
+  "size": 184334,
+  "sha256": "f6989d9315b76dc5a7024c1aab7123207efb28d0d287a72ce8ee3a3b65bea806",
+  "notes": "Resonar ahora se llama ResonarDown.\n\n- Nuevo nombre en la aplicación, la ventana, la barra de tareas, los accesos directos y Configuración > Aplicaciones.\n- Tu biblioteca, tus ajustes y tus descargas se conservan: los datos se mudan solos al nombre nuevo y las canciones siguen en la misma carpeta.\n- Se quitan los accesos directos con el nombre anterior."
 }

@@ -1,4 +1,4 @@
-# Resonar
+# ResonarDown
 
 Descarga música y video en la mejor calidad disponible, con título, artista y carátula. Funciona con YouTube, YouTube Music, Spotify, TikTok, Instagram y SoundCloud, incluidas listas de reproducción y álbumes completos.
 
@@ -6,7 +6,7 @@ Descarga música y video en la mejor calidad disponible, con título, artista y 
 
 ## Descargar
 
-**[Descargar Resonar 1.0.0](versiones/Resonar-1.0.0.zip)**. Pulsa el botón de descarga (*Download raw file*) en la página que se abre.
+**[Descargar ResonarDown 1.1.0](versiones/ResonarDown-1.1.0.zip)**. Pulsa el botón de descarga (*Download raw file*) en la página que se abre.
 
 Todas las versiones están en la carpeta [versiones](versiones).
 
@@ -14,11 +14,11 @@ Todas las versiones están en la carpeta [versiones](versiones).
 
 1. Descomprime el zip donde quieras dejar la aplicación, por ejemplo en Documentos.
 2. Haz doble clic en **Instalar.bat**. Si Windows muestra "Windows protegió su PC", pulsa *Más información* y luego *Ejecutar de todas formas*.
-3. Al terminar se abre Resonar y queda un ícono en el escritorio y en el menú Inicio.
+3. Al terminar se abre ResonarDown y queda un ícono en el escritorio y en el menú Inicio.
 
 ## Actualizar
 
-Resonar te avisa cuando hay una versión nueva. Pulsa **Actualizar ahora** y la app se actualiza y vuelve a abrirse sola. Tu biblioteca y tus ajustes se conservan.
+ResonarDown te avisa cuando hay una versión nueva. Pulsa **Actualizar ahora** y la app se actualiza y vuelve a abrirse sola. Tu biblioteca y tus ajustes se conservan.
 
 ## Requisitos
 
@@ -27,8 +27,8 @@ Resonar te avisa cuando hay una versión nueva. Pulsa **Actualizar ahora** y la 
 
 ## Desinstalar
 
-Desde *Configuración > Aplicaciones > Resonar*. Antes de borrar te pregunta si también quieres eliminar tus descargas.
+Desde *Configuración > Aplicaciones > ResonarDown*. Antes de borrar te pregunta si también quieres eliminar tus descargas.
 
 ---
 
-Usa Resonar solo con contenido que tengas derecho a descargar. Resonar usa componentes de código abierto (yt-dlp, FFmpeg, Deno, Mutagen, pywebview y audio-separator), cada uno con su propia licencia.
+Usa ResonarDown solo con contenido que tengas derecho a descargar. ResonarDown usa componentes de código abierto (yt-dlp, FFmpeg, Deno, Mutagen, pywebview y audio-separator), cada uno con su propia licencia.
