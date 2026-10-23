@@ -1,8 +1,8 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "published": "2026-10-23",
-  "url": "versiones/ResonarDown-1.1.0.zip",
-  "size": 184334,
-  "sha256": "f6989d9315b76dc5a7024c1aab7123207efb28d0d287a72ce8ee3a3b65bea806",
-  "notes": "Resonar ahora se llama ResonarDown.\n\n- Nuevo nombre en la aplicación, la ventana, la barra de tareas, los accesos directos y Configuración > Aplicaciones.\n- Tu biblioteca, tus ajustes y tus descargas se conservan: los datos se mudan solos al nombre nuevo y las canciones siguen en la misma carpeta.\n- Se quitan los accesos directos con el nombre anterior."
+  "url": "versiones/ResonarDown-1.1.1.zip",
+  "size": 187146,
+  "sha256": "e043f0360751e1a6d116fd536a2f45bdbf7e32c8e19a12f09a3da4858f66ffc7",
+  "notes": "Revisión de seguridad completa:\n- La conexión interna entre la ventana y el motor ahora solo acepta pedidos de la propia aplicación (protección contra páginas web maliciosas que intenten controlarla).\n- Política de contenido estricta en la interfaz: ningún texto de títulos, artistas o portadas puede ejecutar código.\n- Las portadas solo se descargan de sitios públicos y se verifica que sean imágenes reales.\n- Las actualizaciones exigen huella sha256 y conexión segura; el origen queda fijo en GitHub.\n- Componentes con versiones fijas y reparación automática limitada a paquetes conocidos.\n- El desinstalador solo borra descargas dentro de tu carpeta de música de ResonarDown.\n- \"Abrir\" solo reproduce música o video; otros archivos se muestran en el Explorador.\n- El registro de actividad ya no crece sin límite."
 }

@@ -6,7 +6,7 @@ Descarga música y video en la mejor calidad disponible, con título, artista y 
 
 ## Descargar
 
-**[Descargar ResonarDown 1.1.0](versiones/ResonarDown-1.1.0.zip)**. Pulsa el botón de descarga (*Download raw file*) en la página que se abre.
+**[Descargar ResonarDown 1.1.1](versiones/ResonarDown-1.1.1.zip)**. Pulsa el botón de descarga (*Download raw file*) en la página que se abre.
 
 Todas las versiones están en la carpeta [versiones](versiones).
 
